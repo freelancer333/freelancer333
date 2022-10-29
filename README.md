@@ -12,6 +12,7 @@
 ![icons8-jenkins-50](https://user-images.githubusercontent.com/115936607/198845724-e180a76b-42bd-401c-81a5-5c9aba4eea4a.png)
 ![icons8-python-50](https://user-images.githubusercontent.com/115936607/198845831-5562bbc2-3a8f-48f5-8156-77a6b324f88d.png)
 ![icons8-console-50](https://user-images.githubusercontent.com/115936607/198846006-f146692f-c06d-4981-b715-8197b7a7c6e2.png)
+![icons8-html-5-50](https://user-images.githubusercontent.com/115936607/198846075-c70c761b-5f1f-45e1-95d1-cc1c89ad8a48.png)
 
 
 ### Novice
